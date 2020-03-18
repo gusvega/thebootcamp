@@ -6,12 +6,12 @@ fixed in size
 Dynamic
 Can increase or decrease in size
 
--- When to use Arrays
+-- great for
 Fast Lookups
 Fast Push/pop
-Orderes
+Orders
 
--- Not too good
+-- downsides
 Slow inserts
 slow deletes
 Fixed size
