@@ -1,0 +1,1 @@
+# Main purpose of this repo is to help people learn about Big O, data structures, and algorithms
