@@ -13,7 +13,8 @@ Hash Collision
 
 Great for:
 - fast lookups **
-- fast inserts
+- Direct Access
+- fast inserting/deleting: O(1)
 - flexible keys
 ** good collision resolution needed
 

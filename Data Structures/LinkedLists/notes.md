@@ -12,4 +12,8 @@ Flexible Size
 
 -- Downsides
 Slow Lookup
+No direct Access
+Only Sequential Access O(N)
+Searching: O(N)
+Sorting: O(NLogN)
 More memory

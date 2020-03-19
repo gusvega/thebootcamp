@@ -3,9 +3,11 @@ LIFO = Last In, First Out
 - Arrays use cache locatity
 
 -- great for
-Fast Operations
-Fast Peek
 Ordered
+Fast Operations
+Fast Peek: O(1)
+Push/Add: O(1)
+Pop/Remove: O(1)
 
 -- Downsides
 Slow Lookup

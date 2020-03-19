@@ -4,9 +4,11 @@ Can use Arrays and Linked Lists
 - Uses head and tail
 
 -- great for
-Fast Operations
-Fast Peek
 Ordered
+Fast Operations
+Fast Peek: O(1)
+Push/Add: O(1)
+Pop/Remove: O(1)
 
 -- Downsides
 Slow Lookup
