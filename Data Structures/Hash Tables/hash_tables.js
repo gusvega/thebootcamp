@@ -1,3 +1,5 @@
+// Objects are Hash tables in Javascript
+
 let user = {
     age: 54,
     name: 'gus',
