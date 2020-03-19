@@ -1,0 +1,3 @@
+- lets you find if a word or part of a word excists in a string
+- great with speed and space
+- O(length of the word)
