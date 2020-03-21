@@ -1,0 +1,3 @@
+- O(N Log N) ------ Not to be confused with O(LogN)(height of a tree)
+- Devide and Conquer)
+- uses recursion

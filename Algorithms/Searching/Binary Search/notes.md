@@ -1,0 +1,1 @@
+if sorted, we can do better than O(n) but mostly O(logN)
